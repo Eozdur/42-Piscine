@@ -1,0 +1,6 @@
+Credentials cache: API:D32D4C30-458A-48CF-856F-AC83AC93D15E
+        Principal: eozdur@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 10:20:39 2022  Feb  9 20:20:39 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Feb  9 10:20:41 2022  Feb  9 20:20:39 2022  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
